@@ -1,0 +1,11 @@
+Primero:
+
+npx create-react-app typescript-tutorial --template typescript 
+
+Segundo:
+
+cd typescript-tutorial
+
+Tercero:
+
+npm start
